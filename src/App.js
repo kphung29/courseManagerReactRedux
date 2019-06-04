@@ -3,7 +3,7 @@ import { Route, Switch } from "react-router-dom";
 import HomePage from "./components/home/HomePage";
 import AboutPage from "./components/about/AboutPage";
 import Header from "./components/common/Header";
-import PageNotFound from "./components/PageNotFound";
+import PageNotFound from "../src/PageNotFound";
 import CoursesPage from "./components/courses/CoursesPage";
 
 function App() {
