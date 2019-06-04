@@ -1,6 +1,7 @@
 {
   "name": "course_manager",
   "description": "course management app",
+  "author": "kevin phung",
   "scripts": {
     "start": "webpack-dev-server --config webpack.config.dev.js --port 3000"
   },
